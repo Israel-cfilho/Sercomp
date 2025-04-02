@@ -15,22 +15,22 @@ export const chamadasData = [
     text: 'Aqui você encontrará informações sobre a publicação de Trabalhos Cientificos',
     url: '/articles',
   },
-  {
-    icon: <CodeBracketIcon width={90} color="#f7c94b" />,
-    title: 'Hackathon',
-    text: 'Aqui você encontrará informações sobre o hackathon',
-    url: '/hackathon',
-  },
+  // {
+  //   icon: <CodeBracketIcon width={90} color="#f7c94b" />,
+  //   title: 'Hackathon',
+  //   text: 'Aqui você encontrará informações sobre o hackathon',
+  //   url: '/hackathon',
+  // },
   {
     icon: <SparklesIcon width={90} color="#f7c94b" />,
     title: 'Ideathon',
     text: 'Aqui você encontrará informações sobre o ideathon',
     url: '/ideathon',
   },
-  {
-    icon: <TrophyIcon width={90} color="#f7c94b" />,
-    title: 'Maratona de Programação',
-    text: 'Aqui você encontrará informações sobre a maratona de progamação',
-    url: '/programming-marathon',
-  },
+  // {
+  //   icon: <TrophyIcon width={90} color="#f7c94b" />,
+  //   title: 'Maratona de Programação',
+  //   text: 'Aqui você encontrará informações sobre a maratona de progamação',
+  //   url: '/programming-marathon',
+  // },
 ];

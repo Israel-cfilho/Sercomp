@@ -6,7 +6,7 @@ function Partners() {
         <section className="container">
             <h1 className="titulo-principal">Conheça as instituições que apoiam o <strong>SERCOMP</strong></h1>
 
-            <div className={`container ${styles.patrocinadores}`}>
+            {/* <div className={`container ${styles.patrocinadores}`}>
                 <div className={styles.patrocinadoresContainer}>
                     {partnersData
                         .map((partner, index) => (
@@ -20,7 +20,7 @@ function Partners() {
                         ))
                     }
                 </div>
-            </div>
+            </div> */}
         </section>
     );
 }
