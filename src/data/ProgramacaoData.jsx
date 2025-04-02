@@ -18,22 +18,22 @@ const programacao = [
       </>
     ),
     day: "1º Dia",
-    events: [{ title: "Credenciamento", time: "17:30 - 18:30", timeStr: "NOITE" },
+    events: [{ title: "CREDENCIAMENTO", time: "17:30 - 18:30", timeStr: "NOITE" },
       {
-        title: "Cerimonial de Abertura",
+        title: "CERIMONIAL DE ABERTURA",
         time: "18:30 - 19:00",
         timeStr: "NOITE",
         location: "Auditório Celso Furtado",
       },
       {
-        title: "Palestra I: Profissional 5.0 – Inovação, Consciência e  Habilidades para o Futuro ",
+        title: "PALESTRA I: Profissional 5.0 – Inovação, Consciência e  Habilidades para o Futuro ",
         time: "19:00 - 20:30",
         timeStr: "NOITE",
         location: "Auditório Celso Furtado",
       },
       {
         title:
-          "Happy Hour & Networking",
+          "HAPPY HOUR & NETWORKING",
         time: "20:30 - 21:30",
         timeStr: "NOITE",
         location: "Centro de Vivências",
